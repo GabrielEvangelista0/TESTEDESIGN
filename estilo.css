@@ -1,0 +1,120 @@
+.header-3 .banner-section .carousel .fill .padronagem{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(248, 248, 248, 0))
+}
+
+.header-img{
+    background-image: url("./logo/LOGOSemBg.png");
+    filter: brightness(0) saturate(100%) invert(60%) sepia(52%) saturate(484%) hue-rotate(131deg) brightness(99%) contrast(87%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.header-img img{
+    width: 0px;
+    height: 0px;
+    display: none;
+}
+
+.destaque-6 div.destaque-valores{
+    background-color: #3FBFBF;
+    
+}
+
+.destaque-6 #detaque-mais-info{
+    background-color: #3FBFBF;
+}
+
+.favoritos .fav-label{
+    background-color: #3FBFBF;
+}
+
+#widget-busca-6.busca-widget .tab-content .transacao-group{
+    gap: 0.5rem;
+}
+
+#widget-busca-6.busca-widget.widget-busca-3.center-div .busca-form .campos-ocultos .campos-linha2 .btn-quadrados-filtros label.btn-checkbox:hover, #widget-busca-6.busca-widget.widget-busca-3.center-div .busca-form .campos-ocultos .campos-linha2 .btn-quadrados-filtros input:checked+label.btn-checkbox, #widget-busca-6.busca-widget.widget-busca-3.center-div .tab-content .transacao-group .btn-transacao.btn-ativo, #widget-busca-6.busca-widget.widget-busca-3.center-div .busca-form .container-input-busca-livre .container-btn-busca-livre .btn-site {
+    background-color: #3FBFBF !important;
+    color: #fff !important;
+}
+
+#busca-livre .btn-site{
+    background-color: #3FBFBF ;
+    color: #fff ;
+}
+
+
+#destaque-lancamento #carouselLancamento .destaque-emp .content-lancamento .destaque-emp-tipo{
+    color: #3FBFBF;
+}
+
+#destaque-lancamento #carouselLancamento .carousel-control {
+    background-color: transparent;
+    font-size: 5rem;
+    color: #3FBFBF;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#lias_201395 .widgets-div.widget-cliente .carousel-control, .lias_201395 .widgets-div.widget-cliente .carousel-control{
+    background: none;
+    border: none;
+    color: #3FBFBF;
+    font-size: 5rem;
+    
+}
+
+#destaque-lancamento #carouselLancamento .destaque-emp{
+    border: 2px solid #3FBFBF !important;
+}
+
+.widgets-div.widget-noticias .carousel-noticia .carousel-cell .card div.card-body h5 {
+    color: #3FBFBF;
+}
+
+.lias_201394 .widgets-div.widget-noticias .card .card-leia-mais{
+    background-color: #3FBFBF
+}
+
+.lias_201394 .widgets-div.widget-noticias .card .data-block{
+    background-color: #F2BE22;
+    opacity: 0.6 !important;
+}
+
+#lias_231116 .calculadora-digital-2__header, .lias_231116 .calculadora-digital-2__header{
+    background-color: #3FBFBF;
+}
+
+.btn-site {
+    background-color: #3FBFBF;
+    color: #fff;
+}
+
+
+.footer-logo{
+    background-image: url("./logo/LOGOSemBg.png");
+    filter: brightness(0) saturate(100%) invert(60%) sepia(52%) saturate(484%) hue-rotate(131deg) brightness(99%) contrast(87%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+}
+
+.footer-img img{
+    display: none;
+}
+
+.footer .linha-fixa-flutuante, .footer .middle-row.footer-linha[class*="flutuante-fixa-rodape"] {
+    border-top: 2px solid #3FBFBF;
+}
+
+@media (min-width: 767px) {
+    #widget-busca-6.busca-widget.widget-busca-3.center-div .busca-form .campos-ocultos .campos-linha2 .btn-quadrados-filtros label.btn-checkbox:hover, #widget-busca-6.busca-widget.widget-busca-3.center-div .busca-form .campos-ocultos .campos-linha2 .btn-quadrados-filtros input:checked+label.btn-checkbox, #widget-busca-6.busca-widget.widget-busca-3.center-div .tab-content .transacao-group .btn-transacao.btn-ativo, #widget-busca-6.busca-widget.widget-busca-3.center-div .busca-form .container-input-busca-livre .container-btn-busca-livre .btn-site {
+        background-color: #3FBFBF !important;
+        color: #fff !important;
+    }
+}
